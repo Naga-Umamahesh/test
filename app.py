@@ -11,4 +11,8 @@ if(n % 2 == 0):
 	print("Even number")
 else:
 	print("Odd number")
+a = 10
+b = 20
+c = a+b
+print(c)
 
